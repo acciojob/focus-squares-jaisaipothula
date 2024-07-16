@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+<style>
+    .lavender {
+        width: 100px;
+        height: 100px;
+        background-color: #E6E6FA; /* Lavender color */
+        display: inline-block;
+        margin: 10px;
+    }
+
+    .coffee {
+        background-color: #6F4E37; /* Coffee color */
+    }
+</style>
